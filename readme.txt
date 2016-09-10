@@ -6,5 +6,4 @@ Creating a new branch is quick and simple.
 
 add in dev branch.
 
-kkkkkk in dev added by first one`
-
+kkkkkk in dev added by another one.
